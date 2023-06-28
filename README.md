@@ -18,3 +18,5 @@ User Ticket Creation: Users can create tickets to report system anomalies. By lo
 *Closure by Helpdesk Manager: The Helpdesk Manager is notified of the resolution and performs a final check to ensure the problem is resolved. They then mark the ticket as "Closed." Only the Helpdesk Manager has the authority to close a ticket.
 
 *Statistics Page: Optionally, the system can include a statistics page displaying performance indicators such as the number of tickets processed in a semester, the number of tickets by type, priority, and status.
+
+NB: Before executing the code, please make sure to execute the file database/tables_helpdesk.sql which contains the SQL clauses to create the tables.
