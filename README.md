@@ -30,12 +30,19 @@ The generated quiz is then presented to the student who submitted the assignment
 
 Once the student completes the quiz, their answers are collected by the Assignment Quiz Generator. To ensure seamless communication, the package integrates with email functionality, allowing the quiz answers to be automatically sent to the student's advisor or instructor via email. This ensures timely feedback and enables mentors to evaluate and provide constructive suggestions for improvement.
 
+
 Key Features:
+
 *Automated quiz generation: Automatically generates a quiz based on the content of a programming assignment solution file.
+
 *Multi-language support: Supports code written in Python, PHP, and C++.
+
 *Tailored question set: Creates a set of questions that assess the student's understanding of the programming concepts in their assignment.
+
 *Comprehensive assessment: Evaluates code comprehension, problem-solving skills, algorithmic thinking, and language-specific features.
+
 *Seamless communication: Integrates with email functionality to send quiz answers to the student's advisor or instructor.
+
 *Time-saving tool: Simplifies the assessment workflow, reducing manual effort for instructors and mentors.
 
 NB: Before executing the code, please make sure to execute the file quiz-generator/tables_plagiarism_tester.sql which contains the SQL clauses to create the tables.
